@@ -1,0 +1,8 @@
+This repository has C code implementing (almost?) all of the algorithms
+lectured about in the Summer 2024 offering of Stanford's CS 161 course
+(Algorithm Design and Analysis).
+
+Please note that these implementations were written in a rush after each
+lecture. They are not intended to be the most efficient, simplest, or otherwise
+"best" version of the algorithm. Instead, I focused on sticking as close as
+possible to the lecture pseudocode.
